@@ -8280,8 +8280,8 @@ a[data-toggle="collapse"] {
   transition: all 0.3s; }
 
 .btn.btn-primary {
-  background: #f8b739;
-  border-color: #f8b739; }
+  background: #F0F0F0;
+  border-color: #F0F0F0; }
   .btn.btn-primary:hover, .btn.btn-primary:focus {
     background: #f8b739 !important;
     border-color: #f8b739 !important; }
