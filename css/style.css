@@ -8368,6 +8368,10 @@ h1, h2, h3, h4, h5,
   .form-control:focus, .form-control:active {
     border-color: #000; }
 
+    .contact {
+      padding-top: 5%;
+      padding-bottom: 5%;
+    }
 
 /* Let's make it responsive */
 
